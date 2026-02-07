@@ -18,7 +18,7 @@ This repository contains the source code for a gym website, implemented as a sin
 ### Installation
 To run the gym website locally as a single page application, follow these steps:
 - Clone this repository: git clone `https://github.com/mian-ali/GymWebsite.git`
-- Navigate to the project directory: cd GymWebsite
+- Navigate to the project directory: cd GymWebsit  e
 - Open the index.html file in your web browser.
 
 ### Usage
@@ -80,6 +80,7 @@ This gym website is available under the [MIT License](https://github.com/mian-al
 #### Footer Section
 
 ![9](https://github.com/mian-ali/GymWebsite/assets/69896600/8c6854fe-03fb-4b9a-9987-9d7e95d36647)
+
 
 
 
