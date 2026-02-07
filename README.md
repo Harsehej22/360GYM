@@ -1,7 +1,7 @@
 ## Gym Fitness Website
 
 This repository contains the source code for a gym website, implemented as a single page application (SPA) using HTML, CSS, and JavaScript.
-    
+      
 ## Technologies Used:
 
 * HTML5  
@@ -80,6 +80,7 @@ This gym website is available under the [MIT License](https://github.com/mian-al
 #### Footer Section
 
 ![9](https://github.com/mian-ali/GymWebsite/assets/69896600/8c6854fe-03fb-4b9a-9987-9d7e95d36647)
+
 
 
 
